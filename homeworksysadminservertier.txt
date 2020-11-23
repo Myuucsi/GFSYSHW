@@ -1,0 +1,33 @@
+Első szint
+(Tier 1)
+	
+    Alapvető infrastruktúra 99,671% várható rendelkezésre állással
+    Nem redundáns kiszolgáló komponensek
+    Egyszerű, nem redundáns hálózat
+
+Második szint
+(Tier 2)
+	
+    Eléri és meghaladja az első szintet
+    Redundáns infrastruktúra 99,741% várható rendelkezésre állással
+
+Harmadik szint
+(Tier 3)
+	
+    Eléri és meghaladja a második szintet
+    Több független hálózati kapcsolattal rendelkezik
+    Minden számítástechnikai eszköz két független áramforrásról üzemel
+    Működés közben karbantartható infrastruktúra 99,982% várható rendelkezésre állással
+
+Negyedik szint
+(Tier 4)
+	
+    Eléri és meghaladja a harmadik szint követelményeit
+    Minden hűtőberendezés két független áramforrásról működik, beleértve a hűtőberendezéseket, a ventilátorokat és a légkondicionálást
+    Hibatűrő infrastruktúra 99,995% várható rendelkezésre állással
+
+
+    Az első réteg 99,671% elérhetősége 1729,224 perc (~28 óra 49 perc) szolgáltatáskiesést engedélyez
+    A második réteg 99,741% elérhetősége 1361,304 perc (~22 óra 41 perc) kiesést engedélyez
+    A harmadik réteg 99,982% elérhetősége 94,608 perc (~1 óra 34 perc) kiesést engedélyez
+    A negyedik réteg 99,995% elérhetősége 26,28 perc kiesést engedélyez.
